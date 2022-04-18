@@ -1,0 +1,21 @@
+h1{
+  color: red;
+  font-size: 200px;
+}
+img:hover{
+  background-color: gold;
+}
+/******************************Class selectors***************************************/
+.potato{
+  background-color: yellow;
+}
+.tomato{
+  background-color: red;
+}
+.cicular{
+  border-radius:100%;
+}
+/******************************ID selectors****************************************/
+#heading{
+color: blue;
+}
